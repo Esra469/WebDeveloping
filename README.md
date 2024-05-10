@@ -1,4 +1,1 @@
-# WebDeveloping
-Web Developing
-
-tamamdır
+Final projesi
