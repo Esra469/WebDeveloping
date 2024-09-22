@@ -2,12 +2,12 @@ A website that allows users to listen to music and suggests similar music based 
 
 <h1>The Technologies We Use</h1>
 <h2>Frontend:</h2>
-HTML
-CSS
-JavaScript
-Bootstrap
+HTML<br>
+CSS<br>
+JavaScript<br>
+Bootstrap<br>
 
 <h2>Backend</h2>
-Python
+Python<br>
 Flask
 
