@@ -22,3 +22,12 @@ A website that allows users to listen to music and suggests similar music based 
 <a href="https://github.com/Esra469/Music_Website/graphs/contributors">
      <img src="https://contrib.rocks/image?repo=Esra469/Music_Website" />
 </a>
+
+------
+
+## Contact us
+- 🔗 [Esra Çimen](https://www.linkedin.com/in/esra-%C3%A7imen-a49173253/)
+- 🔗 [Mualla Şahin](https://www.linkedin.com/in/muallashn11/)
+- 🔗 [Abdulkadir Ustasaraç](https://www.linkedin.com/in/abdulkadir-ustasarac/)
+
+---
